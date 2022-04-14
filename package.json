@@ -1,6 +1,6 @@
 {
   "name": "koa-generator-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Koa2+TypeScript application generator",
   "repository": "https://github.com/luciozhang/koa-generator-cli",
 	"funding": "https://github.com/luciozhang/koa-generator-cli",
